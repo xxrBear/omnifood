@@ -28,7 +28,7 @@ Paragraph default: 1.6
 #fae5d3
 #eb984e
 
-- Shades: 
+- Shades:
 #cf711f
 #45260a
 
@@ -73,6 +73,7 @@ Medium: 11px
 
 html {
     font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 body {
